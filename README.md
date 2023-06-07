@@ -1,0 +1,1 @@
+# node-s12-solution-typescript-api
